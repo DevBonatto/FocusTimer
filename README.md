@@ -36,7 +36,7 @@ Neste desafio foi criado um Focus Timer parecido com o Pomodoro. Temas aplicados
 </p>
 
 ## ✅ Resultado
-[Acesse o resultado finalizado da calculadora de IMC, online](https://devbonatto.github.io/FocusTimer/)
+[Acesse o resultado finalizado do Focus Timer, online](https://devbonatto.github.io/FocusTimer/)
 
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1263574581735209131/focus-timer-v2-projeto-explorer)
