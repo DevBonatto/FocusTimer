@@ -25,6 +25,10 @@ export function setMinutes() {
     let time = event.currentTarget.textContent
     time = time > 60 ? 60 : time
 
+    if(time == '' || time == 0) {
+      time = 25
+    }
+
     state.minutes = time
     state.seconds = 0
 
