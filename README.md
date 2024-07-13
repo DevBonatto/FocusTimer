@@ -44,4 +44,4 @@ Neste desafio foi criado um Focus Timer parecido com o Pomodoro. Temas aplicados
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1263574581735209131/focus-timer-v2-projeto-explorer)
 
 ## 📄 Documentação Lógica
-[CLIQUE AQUI](https://drive.google.com/file/d/17RqbkeW3LfPBABT2GremDkV_Tnhl1_4v/view?usp=sharing) para ver a documentação lógica do projeto.
+[CLIQUE AQUI](https://drive.google.com/file/d/1X75SE6s7r6el64Lorqh07eO-Px2TGqow/view?usp=sharing) para ver a documentação lógica do projeto.
